@@ -47,3 +47,7 @@ The objective of this project is to analyze sales performance and identify impor
 - DAX
 - Business Intelligence
 - Dashboard Development
+
+## 👤 Author
+
+Khushal Biswas
